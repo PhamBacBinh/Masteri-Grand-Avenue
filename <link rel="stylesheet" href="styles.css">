@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Masterise Grand Avenue</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+  <header>
+    <h1>Masterise Grand Avenue - Căn Hộ Cao Cấp</h1>
+    <img src="masterise-logo.jpg" alt="Masterise Grand Avenue" width="150">
+    <nav>
+        <ul>
+            <li><a href="#home">Trang Chủ</a></li>
+            <li><a href="#listings">Căn Hộ</a></li>
+            <li><a href="#contact">Liên Hệ</a></li>
+        </ul>
+    </nav>
+</header>
 <body>
     <header>
         <h1>Masterise Grand Avenue - Căn Hộ Cao Cấp</h1>
